@@ -29,5 +29,5 @@ If you want to install Ubuntu using Vagrant use this command: <br>
 - `tar -xvf spark-1.5.0.tgz`
 - `cd spark-1.5.0/`
 - `sbt/sbt assembly`
-- If you got an error e.g., `failed; error='Cannot allocate memory' (errno=12)`, you must increase the main memory of your VM. The installation will take a while e.g.,  my VM required 40 minutes to finish the build process.
+- If you got an error e.g., `failed; error='Cannot allocate memory' (errno=12)`, you must increase the main memory of your VM. The installation will take a while e.g.,  my VM required 1862 seconds to finish the build process.
 
