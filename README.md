@@ -1,6 +1,6 @@
 # Apache Spark
 This page introduces you how to install Apache Apark to do  big data tasks e.g., data scientist and data engineering tasks without installing Apache Hadoop.
-## Apache Spark Installation
+## Apache Spark Installation Locally
 If you want to install Ubuntu using Vagrant use this command: <br>
 `vagrant init ubuntu/trusty64; vagrant up --provider virtualbox`
 ### Install Java
