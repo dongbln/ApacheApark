@@ -34,3 +34,6 @@ If you want to install Ubuntu using Vagrant use this command: <br>
 ### Run Spark
 - Run `bin/spark-shell` in the Spark folder to test the build process of Apache Spark
 - To exist the Spark shell type `:q`in the console
+
+### Setup Apache Spark with IntelliJ IEA
+See http://hackers-duffers.logdown.com/posts/245018-configuring-spark-with-intellij
